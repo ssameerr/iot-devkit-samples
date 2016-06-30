@@ -28,4 +28,8 @@
  * @ingroup bycat 
  * @brief Contains project templates for other kits like the
  * Transportation and Safety or Robotics kit.
+ * 
+ * @defgroup howtocode How to Code samples
+ * @ingroup bycat 
+ * @brief Contains projects from the how-to-code repository
  */
