@@ -40,10 +40,16 @@
  * @ld -lupm-i2clcd -lupm-buzzer -lpaho-mqtt3cs -lupm-grove -lssl -lcrypto -lcurl
  *
  * Additional source files required to build this example:
- * @req datastore.cpp
- * @req datastore.h
- * @req mqtt.cpp
- * @req mqtt.h 
+ * datastore.cpp
+ * datastore.h
+ * mqtt.cpp
+ * mqtt.h
+ * Rest.cpp
+ * Rest.h
+ * TwiML.cpp
+ * TwiML.h
+ * Utils.cpp
+ * Utils.h
  *
  * @date 04/04/2016
  */
