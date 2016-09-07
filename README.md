@@ -1,5 +1,10 @@
+THIS BRANCH IS ARCHIVED. PLEASE SEE MASTER FOR THE LATEST
+========================
+
 Intel IoT Developer Kit samples
 ==============
+
+
 
 These samples are intented as a walkthrough to guide you through using the MRAA
 & UPM libraries along with the sensors available in the IoT starter kits.
